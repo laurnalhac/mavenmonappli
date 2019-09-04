@@ -35,6 +35,7 @@
       <dependency>
         <groupId>fr.macademia.app</groupId>
         <artifactId>monappli-dao</artifactId>
+        <version>[1.0,)</version>
       </dependency>
     </dependencies>
   </dependencyManagement>

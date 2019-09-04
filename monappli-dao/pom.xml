@@ -8,9 +8,9 @@
   </parent>
 
   <groupId>fr.macademia.app</groupId>
-  <artifactId>monappli-web</artifactId>
-  <version>1.0-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <artifactId>monappli-dao</artifactId>
+  <version>2.0</version>
+  <packaging>jar</packaging>
   
   <name>monappli-dao</name>
   <!-- FIXME change it to the project's website -->
